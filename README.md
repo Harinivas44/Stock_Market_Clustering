@@ -1,7 +1,7 @@
 ## **Stock Market Clustering 📈📊**
 
 ### **Overview:**
-Revolutionize your approach to stock market analysis with our Stock Market Clustering project. This powerful tool allows you to explore and understand the movements of stocks for a diverse set of companies. Whether you're an investor, analyst, or enthusiast, this project provides valuable insights into how stocks from different industries trend over time.
+Revolutionize your approach to stock market analysis with our Stock Market Clustering project. This project allows you to explore and understand the movements of stocks for a diverse set of companies. Whether you're an investor, analyst, or enthusiast, this project provides valuable insights into how stocks from different industries trend over time.
 
 ### **Key Features:**
 1. **Data Collection:** Retrieve historical stock data for a curated list of 45 companies, including tech giants, financial institutions, and more.
