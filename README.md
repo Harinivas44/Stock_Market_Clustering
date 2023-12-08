@@ -23,5 +23,5 @@ Uncover fascinating insights, such as:
 - **Clustered Companies:** Understand which companies share similar stock movements, aiding in portfolio management and investment decisions.
 
 ### **Conclusion:**
-Our Stock Market Clustering project goes beyond traditional stock analysis, providing a dynamic perspective on market trends. Whether you're a seasoned investor or just starting, this tool empowers you with the knowledge to make informed decisions in the ever-changing world of finance.
+Stock Market Clustering project goes beyond traditional stock analysis, providing a dynamic perspective on market trends. Whether you're a seasoned investor or just starting, this tool empowers you with the knowledge to make informed decisions in the ever-changing world of finance.
 
